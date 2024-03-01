@@ -5,15 +5,9 @@
 
 - 🌱 I’m currently learning **Frameworks, differents tools, dokers**
 
-- 👯 I’m looking to collaborate on **Automation Testing**
-
-- 🤝 I’m looking for help with **learning**
-
 - 💬 Ask me about **SQL, Automation, ISTQB QA, Azure, Oracle**
 
 - 📫 How to reach me **edgar.trz@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/edgar-trz/](https://www.linkedin.com/in/edgar-trz/)
 
 - ⚡ Fun fact **I'm Gym bro**
 
